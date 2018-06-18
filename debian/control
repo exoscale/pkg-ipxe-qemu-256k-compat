@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 XSBC-Original-Maintainer: Bastian Blank <waldi@debian.org>
 Build-Depends:
- debhelper (>> 10), dh-exec,
+ debhelper (>= 9), dh-exec,
  xorriso, isolinux, syslinux-common, syslinux-utils, dosfstools, mtools,
  binutils-dev, liblzma-dev, zlib1g-dev,
 Standards-Version: 3.9.6
