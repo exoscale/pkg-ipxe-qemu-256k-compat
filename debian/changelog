@@ -1,3 +1,9 @@
+ipxe-qemu-256k-compat (1.0.0+git-20150424.a25a16d-0ubuntu2~xenial0+exo1) xenial; urgency=medium
+
+  * Backport to Xenial.
+
+ -- Vincent Bernat <bernat@debian.org>  Mon, 18 Jun 2018 16:24:00 +0200
+
 ipxe-qemu-256k-compat (1.0.0+git-20150424.a25a16d-0ubuntu2) bionic; urgency=medium
 
   * debian/copyright: update copyright information to satisfy lintian
